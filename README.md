@@ -62,3 +62,8 @@ EFI是根据本人配置搭配,不一定适合所有人,任何问题自行承担
 请注意HDMI输出如果是闪黑屏就要调到2k @ 60Hz以下，最好选带DP的板子
 
 自行替换三码
+
+
+## 主题
+<b>来自：@blackosx https://github.com/blackosx/BsxM1</b>
+<img src="https://github.com/blackosx/BsxM1/raw/main/preview_ui.jpg">
