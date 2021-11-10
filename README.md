@@ -66,4 +66,4 @@ EFI是根据本人配置搭配,不一定适合所有人,任何问题自行承担
 
 ## 主题
 <b>来自：@blackosx https://github.com/blackosx/BsxM1</b>
-<img src="https://github.com/blackosx/BsxM1/raw/main/preview_ui.jpg">
+<img src="https://cdn.jsdelivr.net/gh/blackosx/BsxM1@main/preview_ui.jpg">
