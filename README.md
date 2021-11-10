@@ -1,6 +1,16 @@
 # ONDA-B460SD4-ITX-EFI
 
+EFI文件是根据网上教程修改而来,借鉴了很多大佬的教程<br>
+
+EFI是根据本人配置搭配,不一定适合所有人,任何问题自行承担<br>
+
+请注意HDMI输出如果是闪黑屏就要调到2k @ 60Hz以下，最好选带DP的板子<br>
+
+自行替换三码<br>
+
 昂达B460SD4-itx主板的EFI文件<br>(Monterey升级后会出现运行卡顿，开机慢等问题，建议想升级的再等等)
+
+
 ## 电脑配置:
 
 <table style="width:40%;text-align:center">
@@ -61,10 +71,3 @@
 <img src="https://cdn.jsdelivr.net/gh/blackosx/BsxM1@main/preview_ui.jpg">
 
 
-EFI文件是根据网上教程修改而来,借鉴了很多大佬的教程
-
-EFI是根据本人配置搭配,不一定适合所有人,任何问题自行承担
-
-请注意HDMI输出如果是闪黑屏就要调到2k @ 60Hz以下，最好选带DP的板子
-
-自行替换三码
