@@ -49,11 +49,17 @@
     </tbody>
 </table>
 
-## BIOS 设置
+## 推荐 BIOS 设置
+<ul><li><strong>禁用:</strong></li></ul>
+<table><thead><tr><th style="text-align:center">英文</th><th style="text-align:center">中文</th></tr></thead><tbody><tr><td style="text-align:center">Fast Boot</td><td style="text-align:center">快速启动</td></tr><tr><td style="text-align:center">CFG Lock (MSR 0xE2 write protection)</td><td style="text-align:center">CFG 锁 (MSR 0xE2 写入保护)</td></tr><tr><td style="text-align:center">VT-d</td><td style="text-align:center"><a href="https://zhidao.baidu.com/question/495526512.html" target="_blank" rel="noopener">VT-d</a></td></tr><tr><td style="text-align:center">CSM</td><td style="text-align:center">兼容性支持模块</td></tr><tr><td style="text-align:center">Intel SGX</td><td style="text-align:center">Intel SGX</td></tr></tbody></table>
+<hr style="height:3px;background-color:gray;">
+<ul><li><strong>启用:</strong></li></ul>
+<table><thead><tr><th style="text-align:center">英文</th><th style="text-align:center">中文</th></tr></thead><tbody><tr><td style="text-align:center">VT-x</td><td style="text-align:center"><a href="https://zhidao.baidu.com/question/495526512.html" target="_blank" rel="noopener">VT-x</a></td></tr><tr><td style="text-align:center">Above 4G decoding</td><td style="text-align:center">大于 4G 地址空间解码</td></tr><tr><td style="text-align:center">Hyper Threading</td><td style="text-align:center">处理器超线程</td></tr><tr><td style="text-align:center">Execute Disable Bit</td><td style="text-align:center">执行禁止位</td></tr><tr><td style="text-align:center">EHCI/XHCI Hand-off</td><td style="text-align:center">接手 EHCI/XHCI 控制</td></tr><tr><td style="text-align:center">OS type: Windows 8.1/10</td><td style="text-align:center">操作系统类型: Windows 8.1/10</td></tr><tr><td style="text-align:center">Legacy RTC Device</td><td style="text-align:center">传统 RTC 设备</td></tr></tbody></table>
 
-关闭CFG Lock,Fast Boot
+## 主题
+<b>来自：@blackosx https://github.com/blackosx/BsxM1</b>
+<img src="https://cdn.jsdelivr.net/gh/blackosx/BsxM1@main/preview_ui.jpg">
 
-开启Above 4G MMIO BIOS assignment
 
 EFI文件是根据网上教程修改而来,借鉴了很多大佬的教程
 
@@ -62,8 +68,3 @@ EFI是根据本人配置搭配,不一定适合所有人,任何问题自行承担
 请注意HDMI输出如果是闪黑屏就要调到2k @ 60Hz以下，最好选带DP的板子
 
 自行替换三码
-
-
-## 主题
-<b>来自：@blackosx https://github.com/blackosx/BsxM1</b>
-<img src="https://cdn.jsdelivr.net/gh/blackosx/BsxM1@main/preview_ui.jpg">
